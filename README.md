@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ali Hamza 👋
 
-<!--
-**alihamzahq/alihamzahq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 6+ years of experience building web applications.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** PHP, Laravel, MySQL, PostgreSQL, Redis, REST APIs
+**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
+**DevOps:** Docker, Git, CI/CD, Linux, Nginx
+
+## 🔭 What I Do
+
+- Build scalable SaaS applications
+- Design and develop REST APIs
+- Create responsive React interfaces
+- Optimize database performance
+
+## 📫 Connect
+
+- Website: [alihamza.dev](https://alihamza.dev)
+- LinkedIn: [linkedin.com/in/alihamzadev](https://linkedin.com/in/alihamzadev)
+- Email: hello@alihamza.dev
+
