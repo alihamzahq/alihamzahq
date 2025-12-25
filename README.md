@@ -4,8 +4,8 @@ Full Stack Developer with 6+ years of experience building scalable SaaS platform
 
 ## 🛠 Tech Stack
 
-**Backend:** PHP, Laravel, MySQL, PostgreSQL, Redis, REST APIs
-**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
+**Backend:** PHP, Laravel, MySQL, PostgreSQL, Redis, REST APIs  
+**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS  
 **DevOps:** Docker, Git, CI/CD, Linux, Nginx
   
 ## 🔭 What I Do
