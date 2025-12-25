@@ -1,6 +1,6 @@
 # Hi, I'm Ali Hamza 👋
 
-Full Stack Developer with 6+ years of experience building web applications.
+Full Stack Developer with 6+ years of experience building scalable SaaS platforms and APIs.
 
 ## 🛠 Tech Stack
 
@@ -8,6 +8,12 @@ Full Stack Developer with 6+ years of experience building web applications.
 **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
 **DevOps:** Docker, Git, CI/CD, Linux, Nginx
 
+### 🚀 Featured Projects
+
+- Laravel Multi-Tenant SaaS Starter
+- Stripe Subscription Billing System
+- Portfolio Website (Next.js)
+  
 ## 🔭 What I Do
 
 - Build scalable SaaS applications
