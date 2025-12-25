@@ -7,16 +7,10 @@ Full Stack Developer with 6+ years of experience building scalable SaaS platform
 **Backend:** PHP, Laravel, MySQL, PostgreSQL, Redis, REST APIs
 **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
 **DevOps:** Docker, Git, CI/CD, Linux, Nginx
-
-### 🚀 Featured Projects
-
-- Laravel Multi-Tenant SaaS Starter
-- Stripe Subscription Billing System
-- Portfolio Website (Next.js)
   
 ## 🔭 What I Do
 
-- Build scalable SaaS applications
+- Build multi-tenant SaaS platforms
 - Design and develop REST APIs
 - Create responsive React interfaces
 - Optimize database performance
