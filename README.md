@@ -1,6 +1,6 @@
 # Hi, I'm Ali Hamza 👋
 
-Senior Full-Stack Engineer with 6+ years of experience building scalable SaaS platforms and APIs.
+Senior Full-Stack Engineer with 7+ years of experience building scalable SaaS platforms and APIs.
 
 > 💼 Professional work maintained in private Bitbucket repositories. This GitHub showcases open-source contributions, architectural expertise, and personal projects.
 
