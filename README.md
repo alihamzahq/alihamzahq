@@ -16,14 +16,12 @@ Senior Full-Stack Engineer with 7+ years of experience building scalable SaaS pl
 
 **Testing & Monitoring:** Pest, PHPUnit, PHPStan, New Relic APM
 
-**AI & Development Tools:** Claude Code, Cursor, OpenAI API, Git
-
 ## 🔭 What I Do
 
 - Build multi-tenant SaaS platforms (shared database & database-per-tenant)
 - Design and develop REST APIs with Stripe billing integration
-- Create responsive React + Inertia.js interfaces
-- Optimize database performance and caching strategies
+- Optimize API performance and server costs through MySQL indexing, query optimization, Redis, and Cloudflare caching
+- Build full-stack applications using Laravel, React, Vue, and Inertia.js
 
 ## 🌱 Currently
 
