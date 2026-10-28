@@ -6,11 +6,17 @@ Senior Full-Stack Engineer with 7+ years of experience building scalable SaaS pl
 
 ## 🛠 Tech Stack
 
-**Backend:** PHP, Laravel, MySQL, PostgreSQL, Redis, REST API
+**Backend:** PHP, Laravel, REST APIs, MySQL, Redis, Laravel Horizon
 
-**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
+**Frontend:** React, Next.js, Vue.js, Inertia.js, JavaScript, Tailwind CSS
 
-**DevOps:** Docker, Git, CI/CD, Linux, Nginx
+**Architecture:** Multi-Tenant SaaS, API Design, Database Optimization, Caching, Background Processing
+
+**Cloud & Delivery:** GCP (Application Deployment), AWS S3, Cloudflare, Docker, Linux, Nginx, CI/CD
+
+**Testing & Monitoring:** Pest, PHPUnit, PHPStan, New Relic APM
+
+**AI & Development Tools:** Claude Code, Cursor, OpenAI API, Git
 
 ## 🔭 What I Do
 
