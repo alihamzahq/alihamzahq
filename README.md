@@ -6,8 +6,10 @@ Senior Full-Stack Engineer with 7+ years of experience building scalable SaaS pl
 
 ## 🛠 Tech Stack
 
-**Backend:** PHP, Laravel, MySQL, PostgreSQL, Redis, REST APIs
+**Backend:** PHP, Laravel, MySQL, PostgreSQL, Redis, REST API
+
 **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS
+
 **DevOps:** Docker, Git, CI/CD, Linux, Nginx
 
 ## 🔭 What I Do
